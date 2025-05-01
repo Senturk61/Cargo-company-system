@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="veritabanı_odev_isa_senturk.Properties.Settings.isa_senturk_veritabanı_odevConnectionString"
+            connectionString="Data Source=DESKTOP-S4H53I6\SQLEXPRESS;Initial Catalog=isa_senturk_veritabanı_odev;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="veritabanı_odev_isa_senturk.Properties.Settings.Veritabanı_odev_isa_senturkConnectionString"
+            connectionString="Data Source=DESKTOP-S4H53I6\SQLEXPRESS;Initial Catalog=Veritabanı_odev_isa_senturk;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="veritabanı_odev_isa_senturk.Properties.Settings.veritabanıodev_isa_senturkConnectionString"
+            connectionString="Data Source=DESKTOP-S4H53I6\SQLEXPRESS;Initial Catalog=veritabanıodev_isa_senturk;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="veritabanı_odev_isa_senturk.Properties.Settings.veritabanı_odevi_isa_senturkConnectionString"
+            connectionString="Data Source=DESKTOP-S4H53I6\SQLEXPRESS;Initial Catalog=veritabanı_odevi_isa_senturk;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>
